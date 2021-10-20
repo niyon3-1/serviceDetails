@@ -1,0 +1,41 @@
+{ 
+  "service" :[ 
+    { 
+    "id": 0,
+    "img": "https://i.ibb.co/qyY6B33/Background-1.png",
+    "name": "Health Care Service",
+    "details": "Health care is the maintenance or improvement of health via the prevention, diagnosis, treatment, recovery, or cure of disease, illness, injury, and other physical and mental impairments in people.",
+    "description":""
+  },
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/cQ7mCk5/Background-2.png",
+    "name": "Monitoring Service",
+    "details": "Monitoring the humidity, and various other conditions of storage areas and units is essential to maintaining the vitality and  medication that are integral to patient lives and wellbeing."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/k6jpHxK/Background-3.png",
+    "name": "Cabin Service",
+    "details": "To ensure optimum healthcare-hospitality, we provide cabin services  where the patients feel comfort and closely monitored. There are two categories of cabin:- Single Cabin and Deluxe Cabin"
+  },
+  {
+    "id":3,
+    "img": "https://i.ibb.co/259X7NC/Background-4.png",
+    "name": "Ambulance Service",
+    "details": " Ambulance Service always ready to go your home to bring you to hospital safely and quickly. We have 10s ambulances to serve you.Wherever you are staying in Dhaka or outside of Dhaka is not a problem to us. "
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/sWPr15z/Background-5.png",
+    "name": "Emergency Service",
+    "details": "The Accident and Emergency Department of United Hospital is a 24-hour, full time section and it is the mirror of the Hospital. It offers the highest degree of commitment to delivering quality and efficient emergency care."
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/3ky77fy/Background.png",
+    "name": "Surgery Service",
+    "details": "Focusing on individualized care and comfort for each patient, our specialized teams of highly trained surgeons and dedicated support staff will work with you to find the treatment route that is right for your unique needs"
+  }
+]
+}
